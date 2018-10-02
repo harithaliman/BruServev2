@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "982139138204",
+    "firebase_url": "https://bruserve3.firebaseio.com",
+    "project_id": "bruserve3",
+    "storage_bucket": "bruserve3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982139138204:android:fd5de2f4acdd3b18",
+        "android_client_info": {
+          "package_name": "com.example.harithaliman.bruservev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982139138204-38nmvn9on3668nau1qvpg8pkeh3783gg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harithaliman.bruservev2",
+            "certificate_hash": "7ced58c13890dfa6fe2f38ac992c4269b69dbdec"
+          }
+        },
+        {
+          "client_id": "982139138204-7ur9b0cjf8gkcqkc0499j51i270s1q66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcBgr1obU4-pA40XjJaM35BmBiMtEgVZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982139138204-7ur9b0cjf8gkcqkc0499j51i270s1q66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

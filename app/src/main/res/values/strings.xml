@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BruServev2</string>
+
+    <string name="choose_category_to_submit">Choose complaint category to submit:</string>
+    <string name="google_maps_API_key">AIzaSyBjmwm_P7bnQgNN-fZhdxFxIiDB2d-JWJY</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
